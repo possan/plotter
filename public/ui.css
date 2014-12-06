@@ -1,0 +1,22 @@
+body {
+	background: #eee;
+}
+
+button.big {
+	width: 200px;
+	height: 50px;
+}
+
+input.dim {
+	background-color: #eee;
+	color: #444;
+}
+.preview {
+	background-color: #888;
+	padding: 10px;
+	margin: 0 0 10px 0;
+}
+
+.preview canvas {
+	background-color: #fff;
+}
